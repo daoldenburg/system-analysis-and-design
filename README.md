@@ -2,7 +2,9 @@
 Portfolio for CS-255-J5815 System Analysis and Design
 
 Q: Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
 A: The project for this course was a system design for a client company, DriverPass. DriverPass wanted us to design a system that would allow them to offer training to student drivers to help them prepare for their local driving tests. This training would take the form of online courses and practice tests, as well as on-the-road training by driving instructors.
+
 Q: What did you do particularly well?
 A: I believe the strongest aspect of my work on the DriverPass project was in identifying requirements, and conceptualizing the implementation of those requirements.
 Q: If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
